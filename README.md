@@ -4,6 +4,13 @@ Welcome to **WeatherNow - India**, a modern and fully responsive weather web app
 
 ---
 
+
+## 📸 Live Demo
+
+🚀 [Click here to view it live](https://lucifer01430.github.io/code-nest-weather-app/)  
+
+---
+
 ## 🚀 Features
 
 - 🔴 **Live Weather**: Real-time temperature, wind speed, humidity, and condition for each Indian state.
@@ -21,6 +28,9 @@ Welcome to **WeatherNow - India**, a modern and fully responsive weather web app
 - **API**: [All-In-One Weather API](https://www.allthingsdev.co/apimarketplace/endpoints/all-in-one-weather-api/67379f7bdbfa8ddbb99cbaa8)
 
 ---
+
+
+
 
 ## 📁 Project Structure
 
