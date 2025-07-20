@@ -30,7 +30,7 @@ Welcome to **WeatherNow - India**, a modern and fully responsive weather web app
 ---
 
 
-
+```
 
 ## 📁 Project Structure
 
@@ -43,7 +43,7 @@ Welcome to **WeatherNow - India**, a modern and fully responsive weather web app
 ├── js/
      └── script.js
 
-
+```
 ---
 
 ## 🧰 Getting Started
